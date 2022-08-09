@@ -1,0 +1,18 @@
+{
+  "rules": {
+    "max-len": [
+      "warn",
+      {
+        "code": 90,
+        "tabWidth": 2,
+        "ignoreComments": true,
+        "ignoreUrls": true,
+        "ignoreRegExpLiterals": true
+      }
+    ],
+    "quotes": [
+      "error",
+      "double"
+    ]
+  }
+}
